@@ -1,1 +1,1 @@
-# CG_Project
+# Computer Graphics Project: Asteroids Game
